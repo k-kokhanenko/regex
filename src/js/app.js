@@ -1,4 +1,4 @@
-import Zombie from './Zombie';
+import Validator from './Validator';
 
-const a = Zombie('Some name');
+const a = Validator();
 console.log(a);
